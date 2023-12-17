@@ -1,0 +1,13 @@
+.demo{
+    color: white;
+    background-color: teal;
+    border: 2px solid black;
+    padding: 20px 20px ;
+    font-size: 24px;
+}
+.vip{
+    color: black;
+    background-color: orange;
+    border: 2px solid teal;
+    padding: 20px 20px;
+}
